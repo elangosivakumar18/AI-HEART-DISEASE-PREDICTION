@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+pgmpy
+joblib
+matplotlib
+seaborn
+fastapi
+uvicorn
+python-dotenv
+pydantic
+faiss-cpu
+sentence-transformers
+openai
+pypdf
+python-multipart
